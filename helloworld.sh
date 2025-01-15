@@ -2,7 +2,7 @@
 
 func(){
 
-echo "hello world"
+echo "...heres to another semester of engineering..."
 
 }
 
